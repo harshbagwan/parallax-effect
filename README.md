@@ -1,1 +1,1 @@
-### 🔗 [Live Demo](https://harshbagwan.github.io/parallax-effect/)  
+### 🔗 [Live Demo](https://harshbagwan.github.io/parallax-effect/)    
